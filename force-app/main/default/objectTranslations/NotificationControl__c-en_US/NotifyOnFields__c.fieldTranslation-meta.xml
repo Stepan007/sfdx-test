@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Comma separated list of field API name to be inspected for changes. Include only important fields in this list
+Ex: Owner,Comments,Priority,Status --></help>
+    <label><!-- NotifyOnFields --></label>
+    <name>NotifyOnFields__c</name>
+</CustomFieldTranslation>

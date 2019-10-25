@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Integration_Log</fullName>
+    <columns>NAME</columns>
+    <columns>Result_Status__c</columns>
+    <columns>Exception_Type_Name__c</columns>
+    <columns>Result_Message__c</columns>
+    <columns>Stack_Trace__c</columns>
+    <columns>User__c</columns>
+    <columns>Salesforce_Object_Id__c</columns>
+    <columns>Salesforce_Object_Type__c</columns>
+    <columns>Result_Code__c</columns>
+    <columns>Result_Header__c</columns>
+    <columns>Request__c</columns>
+    <columns>Direction__c</columns>
+    <columns>Created_Date_Time__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Type__c</field>
+        <operation>equals</operation>
+        <value>Integration</value>
+    </filters>
+    <label>Integration Log</label>
+    <language>en_US</language>
+</ListView>

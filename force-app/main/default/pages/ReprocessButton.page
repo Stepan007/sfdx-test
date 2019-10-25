@@ -1,0 +1,6 @@
+<!--
+ - Created by Stepan Ruzicka on 08/06/17.
+ - Visualforce page to support custom button ("Reprocess") functionality
+ -->
+
+<apex:page controller="LogController" action="{!reprocessSelectedRecords}"/>

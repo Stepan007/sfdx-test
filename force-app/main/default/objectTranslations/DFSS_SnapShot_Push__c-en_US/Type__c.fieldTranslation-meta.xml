@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>Change Everything Possible And Ignore Errors</masterLabel>
+        <translation><!-- Change Everything Possible And Ignore Errors --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Check For Errors Without Making Changes</masterLabel>
+        <translation><!-- Check For Errors Without Making Changes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Roll Back All Changes If There Is An Error</masterLabel>
+        <translation><!-- Roll Back All Changes If There Is An Error --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Comma separated list of field API name that holds email addresses. 
+Ex: ContactEmail,SuppliedEmail,TeamEmail__c --></help>
+    <label><!-- ToAddressFields --></label>
+    <name>ToAddressFields__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>Control to turn on/off email notifications for object changes.
+Note: Use Object API name for new instance. Ex:Case, Account, Custom__c. Ensure there are no duplicate instances with same Object API name. Ex: Case, Case</description>
+    <enableFeeds>false</enableFeeds>
+    <label>NotificationControl</label>
+    <visibility>Public</visibility>
+</CustomObject>
